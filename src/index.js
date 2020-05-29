@@ -1,3 +1,5 @@
+import 'song-essay-shared/runtime';
+import 'song-essay-shared/vendors~layouts~main';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
